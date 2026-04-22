@@ -76,7 +76,7 @@ a {
   border-radius: 2rem;
   background:
     linear-gradient(rgba(45, 33, 24, 0.46), rgba(45, 33, 24, 0.68)),
-    url("../assets/img/sand guitar.webp") center 35% / cover no-repeat;
+    url("../assets/img/sandguitar.webp") center 35% / cover no-repeat;
   color: #fff8f2;
   text-align: center;
   box-shadow: var(--shadow);
